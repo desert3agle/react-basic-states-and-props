@@ -42,6 +42,7 @@ class Newproj extends Component {
                 }
 
                 <h1 className="heading">No of times button clicked : {count}</h1>
+                <h3 className="heading"> High Score : 10 </h3>
                 <Highscore 
                     overTen = {this.state.overTen}
                     resetButton = {this.resetButton}
