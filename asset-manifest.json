@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-basic-states-and-props/static/css/main.c6494b84.chunk.css",
+    "main.js": "/react-basic-states-and-props/static/js/main.45215c8e.chunk.js",
+    "main.js.map": "/react-basic-states-and-props/static/js/main.45215c8e.chunk.js.map",
+    "runtime-main.js": "/react-basic-states-and-props/static/js/runtime-main.388ed715.js",
+    "runtime-main.js.map": "/react-basic-states-and-props/static/js/runtime-main.388ed715.js.map",
+    "static/js/2.a72a2aa3.chunk.js": "/react-basic-states-and-props/static/js/2.a72a2aa3.chunk.js",
+    "static/js/2.a72a2aa3.chunk.js.map": "/react-basic-states-and-props/static/js/2.a72a2aa3.chunk.js.map",
+    "index.html": "/react-basic-states-and-props/index.html",
+    "precache-manifest.0602b781e93e2872b67303f09d655b2a.js": "/react-basic-states-and-props/precache-manifest.0602b781e93e2872b67303f09d655b2a.js",
+    "service-worker.js": "/react-basic-states-and-props/service-worker.js",
+    "static/css/main.c6494b84.chunk.css.map": "/react-basic-states-and-props/static/css/main.c6494b84.chunk.css.map",
+    "static/js/2.a72a2aa3.chunk.js.LICENSE.txt": "/react-basic-states-and-props/static/js/2.a72a2aa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.388ed715.js",
+    "static/js/2.a72a2aa3.chunk.js",
+    "static/css/main.c6494b84.chunk.css",
+    "static/js/main.45215c8e.chunk.js"
+  ]
+}
