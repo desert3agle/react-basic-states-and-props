@@ -1,0 +1,13 @@
+body{
+    color: darkmagenta;
+    background-image: url(https://bashooka.com/wp-content/uploads/2012/04/patterns_4.jpg);
+}
+.heading{
+    text-align: center;
+}
+.one {
+    margin:  0;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+}
