@@ -10,7 +10,7 @@ https://desert3agle.github.io/react-basic-states-and-props/
   ```
  whichever package manager you'd like to use.
 
-## Local Deployment
+## Serving Locally
 ```sh
   npm start or yarn start
   ```
