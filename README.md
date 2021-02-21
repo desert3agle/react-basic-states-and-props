@@ -1,22 +1,18 @@
 ## Tech
 ReactJS
 
-## Public Deployment
-https://desert3agle.github.io/react-basic-states-and-props/
 
-## Installing dependensies
-```sh
-  npm intall or yarn install
-  ```
- whichever package manager you'd like to use.
+## Local Run
 
-## Serving Locally
+Install dependencies and locally
+
 ```sh
-  npm start or yarn start
+  npm install && npm start
   ```
-   whichever package manager you'd like to use.
- 
-## Public Deployment on github pages
+  
+## Deployment
+
+on github pages
 ```sh
 npm run build
 gh-pages -d build
